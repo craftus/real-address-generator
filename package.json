@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/conceptant/real-address-generator.git"
+    "url": "git+https://github.com/craftus/real-address-generator.git"
   },
   "author": "Andrey Hvetskovich",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/conceptant/real-address-generator/issues"
+    "url": "https://github.com/craftus/real-address-generator/issues"
   },
-  "homepage": "https://github.com/conceptant/real-address-generator#readme",
+  "homepage": "https://github.com/craftus/real-address-generator#readme",
   "dependencies": {
     "node-geocoder": "^4.0.0",
     "p-map": "^4.0.0",
