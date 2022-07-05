@@ -1,6 +1,6 @@
 {
   "name": "real-address-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Real address generator.",
   "main": "lib/real-address-generator.js",
   "scripts": {
